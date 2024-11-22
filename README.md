@@ -1,6 +1,7 @@
 # National Call Center Data Analysis
 
-This project analyzes data from the National Call Center using Python in Google Colab. The analysis involves creating visualizations and computing descriptive statistics to understand variables such as **Current Amount Due**, **Past Due Amount**, **Caller Gender**, and **Account Holder Gender**.
+This project analyzes data from the National Call Center using Python in Google Colab. 
+The analysis involves creating visualizations and computing descriptive statistics to understand variables such as **Current Amount Due**, **Past Due Amount**, **Caller Gender**, and **Account Holder Gender**.
 
 ---
 
@@ -15,7 +16,8 @@ This project analyzes data from the National Call Center using Python in Google 
 
 1. Open the provided Google Colab notebook.
 2. Upload the dataset (`National Call Center.xlsx`) to Colab each time the notebook is run.
-3. Required libraries are installed automatically in Colab. If missing, install them with:
+3. Required libraries are installed automatically in Colab.
+4. If missing, install them with:
    ```python
    !pip install pandas matplotlib seaborn
 
